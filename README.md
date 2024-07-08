@@ -50,10 +50,15 @@ At CLENT Africa, we leverage technology to solve complex problems and drive impa
 
 We welcome contributors/volunteers, partners, and donors to join us in our mission. Together, we can create a sustainable future for Africa.
 
-- Join our[ Discord](https://discord.gg/HC75V7JN)
-- Follow us on [Instagram](http://instagram.com/clentafrica) &
-- [LinkedIn](https://www.linkedin.com/company/37216267).
+### Follow Us On Social Media
 
+- Join our[ Discord](https://discord.gg/HC75V7JN)
+- [Instagram](http://instagram.com/clentafrica)
+- [Facebook](https://www.facebook.com/clentafrica)
+- [LinkedIn](https://www.linkedin.com/company/37216267)
+- [Twitter](http://www.twitter.com/clentafrica)
+- [YouTube](https://www.youtube.com/@CLENTAfrica)
+- [TikTok](https://www.tiktok.com/@clent.africa)
 
 ### Contribute/Volunteer
 
