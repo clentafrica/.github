@@ -2,7 +2,7 @@
 
 # CLENT Africa
 
-Welcome to the official repository for CLENT Africa! We are a pioneering open source organisation focused on creating sustainable and equitable solutions for communities across Africa. 
+Welcome to the official repository for CLENT Africa! We are a pioneering organisation focused on creating sustainable and equitable solutions with open source for communities across Africa. 
 
 Africa is facing a profound crisis as it is disproportionately affected by climate change. Extreme weather events, like droughts and floods, are devastating agriculture and displacing communities in Eastern and Southern Africa ([UN Office for the Coordination of Humanitarian Affairs](https://www.unocha.org/news/seven-things-you-need-know-about-climate-change-eastern-and-southern-africa)). Africa’s low adaptive capacity and high dependence on natural resources make it uniquely vulnerable to these climate impacts ([UN Environment Programme](https://www.unep.org/regions/africa/regional-initiatives/responding-climate-change)). This threat is compounded by severe health consequences, including malnutrition and disease ([Carbon Brief](https://www.carbonbrief.org/in-depth-how-climate-change-affects-health-in-africa)).
 
