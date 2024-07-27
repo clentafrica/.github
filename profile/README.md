@@ -52,7 +52,7 @@ We welcome contributors/volunteers, partners, and donors to join us in our missi
 
 ### Follow Us On Social Media
 
-- [Discord](https://discord.gg/HC75V7JN)
+- [Discord](https://discord.gg/u5yWdGNmyR)
 - [Instagram](http://instagram.com/clentafrica)
 - [Facebook](https://www.facebook.com/clentafrica)
 - [LinkedIn](https://www.linkedin.com/company/37216267)
