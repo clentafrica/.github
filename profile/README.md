@@ -15,8 +15,9 @@ CLENT Africa is dedicated to addressing these challenges through initiatives foc
 1. Climate Change
 2. Energy
 3. Environment
-4. Gender Equality
-5. Technology
+4. Disability & Gender Equality
+5. Environmental Health
+6. Technology
 
 ## How We Use Technology
 
@@ -36,11 +37,11 @@ At CLENT Africa, we leverage technology to solve complex problems and drive impa
 
 ### Environment
 
-- **GIS (Geographic Information Systems)**: Using GIS tools like ArcGIS and QGIS for mapping and managing natural resources.
+- **GIS (Geographic Information Systems)**: Using GIS tools like ArcGIS and QGIS for mapping.
 - **Environmental Software**: Employing software such as ENVI and ERDAS IMAGINE for environmental analysis and management.
 - **IoT Devices**: Installing IoT devices to monitor environmental parameters and manage resources effectively.
 
-### Gender Equality
+### Disability & Gender Equality
 
 - **Digital Platforms**: Creating online platforms and mobile apps to provide education and resources to women and girls.
 - **Social Media and Communication Tools**: Utilizing social media and digital communication tools to raise awareness and advocate for gender equality.
